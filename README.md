@@ -39,11 +39,6 @@ The project demonstrates:
 
 ---
 
-## 💻 Arduino Code
-The complete Arduino source code is available in the [`MOTOR_DRIVER_USING_MEGA2560.ino`](MOTOR_DRIVER_USING_MEGA2560.ino) file in this repository.
-
----
-
 ## ⚙️ How to Run
 1. Connect the circuit as per the wiring diagram above.
 2. Open the `.ino` file in Arduino IDE.
