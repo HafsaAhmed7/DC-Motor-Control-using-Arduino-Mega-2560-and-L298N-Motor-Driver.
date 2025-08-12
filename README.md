@@ -36,3 +36,28 @@ The project demonstrates:
 **L298N Power:**
 - +12V → Motor Power Input (Vmotor)
 - GND → Motor Power Ground
+
+---
+
+## 💻 Arduino Code
+The complete Arduino source code is available in the [`MOTOR_DRIVER_USING_MEGA2560.ino`](MOTOR_DRIVER_USING_MEGA2560.ino) file in this repository.
+
+---
+
+## ⚙️ How to Run
+1. Connect the circuit as per the wiring diagram above.
+2. Open the `.ino` file in Arduino IDE.
+3. Select **Board: Arduino Mega or Mega 2560**.
+4. Select the correct **COM Port** (if using real hardware).
+5. Upload the code.
+6. Observe the motor moving forward, stopping, reversing, and stopping again in a loop.
+
+---
+
+## 📚 Learning Outcomes
+- Understanding L298N motor driver connections
+- Using PWM for motor speed control
+- Controlling motor direction via Arduino pins
+- Debugging forward/reverse issues in motor control
+
+---
